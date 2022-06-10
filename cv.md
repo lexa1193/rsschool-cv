@@ -10,7 +10,7 @@ I am 29 years old, I work as an office manager, I have reached the limit in my c
 ##Skills
 +Git/GitHub
 ## Code examples 
-    n=3
+    n=7
     string="I love python"
     print(string * n)
 ## Education
