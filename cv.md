@@ -16,4 +16,4 @@ I am 29 years old, I work as an office manager, I have reached the limit in my c
 ## Education
 + [4-hour course on git](https://www.youtube.com/watch?v=O00FTZDxD0o&t=1s)
 ## Languages
-+ English - A2 
++ English - A2
