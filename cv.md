@@ -8,7 +8,7 @@
 ## About me
 I am 29 years old, I work as an office manager, I have reached the limit in my current position and I am going to master a new profession in the sphere of programming.
 ##Skills
-+Git/GitHub
++ Git/GitHub
 ## Code examples 
     n=7
     string="I love python"
